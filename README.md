@@ -2,9 +2,9 @@
 
 **Name:** KHUSH GUPTA  
 **Registration Number:** 25BCE10038  
-**Branch:** CSE (Core)
-**Course:** Digital Literacy (CSE0001)
-**Year:** 2025 – 2029
+**Branch:** CSE (Core)  
+**Course:** Digital Literacy (CSE0001)  
+**Year:** 2025 – 2029  
 
 ---
 
