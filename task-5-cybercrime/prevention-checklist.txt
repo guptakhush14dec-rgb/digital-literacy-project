@@ -1,0 +1,19 @@
+Stay Safe Online Checklist for the Prevention of Cybercrime for Students
+
+Financial / UPI Protection:
+Do not give out your UPI PIN to receive money: The only time you will need your UPI PIN is when sending an amount/transaction to someone in your UPI app or checking your balance.
+2. Check receiver details before completing any payment: Be sure to confirm the UPI ID and registered person’s name of the person you are sending money to before approving the payment.
+3. Don’t click on any fake cashback or reward links: Scammers will send you text (SMS) and WhatsApp messages telling you that you have won a cash reward. Never click on any of those links or scan QR code.
+
+General Online Safety:
+4. Enable Two-Factor Authentication (2FA) for all your accounts, it provide you with security that protects against unauthorized access to these accounts.
+5. Be cautious of urgent links: If you receive any message claiming your account has been blocked,or that you need to pay an urgent fee, don’t click on any links in that message before determining message is scam or not.
+6. Create strong, unique passwords for each service: Use a combination of letters, numbers, and special characters (i.e., $ # @ % &), and do not use the same password for banking as you do for social media.
+7. Limit the amount of personal information that you share: You should modify your social media privacy settings so that your phone number, location, and daily activities are not easily accessible to strangers.
+8. Do not use public Wi-Fi to conduct sensitive activities: You should never complete a financial transaction or access your banking app or your university portal when connected to an unsecured public Wi-Fi network.
+9. Verify your job & internship offers: You should be very skeptical of any job offer that requests that you pay a “registration fee,” “security deposit,” or “equipment fee” before beginning employment; valid companies never ask candidates to pay for anything out of pocket.
+10. Keep your software up to date: You should regularly update your device's operating system and applications in order to obtain the most current security patches and maintain the maximum amount of protection from any security exploit.
+
+Official Reporting Channels:
+• National Cyber Crime Reporting Portal: cybercrime.gov.in 
+• National Cyber Crime Helpline: Dial 1930 (Available 24x7) 
